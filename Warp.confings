@@ -1,3 +1,4 @@
 warp://auto?ifp=40-100&ifps=40-100&ifpd=1-4&ifpm=m3&&detour=warp://auto?ifp=40-100&ifps=40-100&ifpd=1-4&ifpm=m3
 warp://auto6?ifp=40-100&ifps=40-100&ifpd=1-4&ifpm=m3&&detour=warp://auto6?ifp=40-100&ifps=40-100&ifpd=1-4&ifpm=m3
 warp://[2606:4700:d1::54aa:8ba4:481c:7d33]:10181?ifp=40-100&ifps=40-100&ifpd=1-5&ifpm=m4#m4&&detour=warp://auto6?ifp=40-100&ifps=40-100&ifpd=1-5&ifpm=m4#5
+warp://auto?ifp=40-100&ifps=40-100&ifpd=1-5&ifpm=m4#m4&&detour=warp://auto?ifp=40-100&ifps=40-100&ifpd=1-5&ifpm=m4#5
