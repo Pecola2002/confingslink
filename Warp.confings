@@ -1,2 +1,5 @@
 warp://auto?ifp=40-100&ifps=40-100&ifpd=1-4&ifpm=m3&&detour=warp://auto?ifp=40-100&ifps=40-100&ifpd=1-4&ifpm=m3
 warp://auto6?ifp=40-100&ifps=40-100&ifpd=1-4&ifpm=m3&&detour=warp://auto6?ifp=40-100&ifps=40-100&ifpd=1-4&ifpm=m3
+warp://auto?ifp=5-10&ifps=5-10&ifpd=1-4&ifpm=m3&&detour=warp://auto?ifp=5-10&ifps=5-10&ifpd=1-4&ifpm=m3
+warp://p1@auto?ifp=5-10&ifps=5-10&ifpd=1-4&ifpm=m3&&detour=warp://auto?ifp=5-10&ifps=5-10&ifpd=1-4&ifpm=m3
+warp://auto?ifp=5-10&ifps=5-10&ifpd=1-4&ifpm=m3&&detour=warp://p2@auto?ifp=5-10&ifps=5-10&ifpd=1-4&ifpm=m3
