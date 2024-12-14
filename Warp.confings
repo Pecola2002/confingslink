@@ -1,4 +1,4 @@
-Warp://p1@162.159.192.134:2408?ifp=0-10&ifps=0-10&ifpd=0-1&ifpm=m4#1
+Warp://p1@162.159.192.134:2408?ifp=0-10&ifps=0-10&ifpd=0-1&ifpm=m4
 Warp://p2@188.114.98.58:890?ifp=0-10&ifps=0-10&ifpd=0-1&ifpm=m4#2
 warp://[2606:4700:d0::a510:2cb1:3a86:df93]:5279?ifp=0-10&ifps=0-10&ifpd=1-4&ifpm=m4#3
 Warp://188.114.98.58:890?ifp=0-10&ifps=0-10&ifpd=0-4&ifpm=m1#4
@@ -11,3 +11,5 @@ Warp://autoipv4#10
 Warp://autoipv6#11
 Warp://auto#12
 Warp://162.159.192.22:8854ifp=10-20&ifps=10-20&ifpd=0-4&ifpm=m4#13
+warp://[2606:4700:d0::a510:2cb1:3a86:df93]:5279?ifp=0-10&ifps=0-10&ifpd=1-4&ifpm=m6
+warp://[2606:4700:d0::a510:2cb1:3a86:df93]:5279?ifp=0-10&ifps=0-10&ifpd=1-4&ifpm=HEX
