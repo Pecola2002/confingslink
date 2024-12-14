@@ -7,5 +7,5 @@ warp://p1@162.159.192.22:8854?ifp=0-10&ifps=0-10&ifpd=1-4&ifpm=m4#17
 warp://162.159.192.221:8854?ifp=0-10&ifps=0-10&ifpd=1-4&ipfm=m4#20
 warp://162.159.192.123:928?ifp=0-10&ifps=0-10&ifpd=1-4&ipfm=m4#21
 warp://188.114.97.149:908?ifp=0-10&ifps=0-10&ifpd=1-4&ipfm=m4#2
-warp://auto?ifp=1-30&ifps=1-30&ifpd=1-4&ifpm=m4&&detour=warp://auto?ifp=1-30&ifps=1-30&ifpd=1-4&ifpm=m4
-warp://auto6?ifp=10-30&ifps=10-30&ifpd=1-4&ifpm=m4#wow&&detour=warp://auto6?ifp=1-30&ifps=1-30&ifpd=1-4&ifpm=m4#wow
+warp://auto?ifp=5-30&ifps=5-30&ifpd=1-8&ifpm=m4&&detour=warp://auto?ifp=5-30&ifps=5-30&ifpd=1-8&ifpm=m4
+warp://auto6?ifp=5-30&ifps=5-30&ifpd=1-8&ifpm=m4#wow&&detour=warp://auto6?ifp=5-30&ifps=5-30&ifpd=1-8&ifpm=m4#wow
