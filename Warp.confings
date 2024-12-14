@@ -5,3 +5,5 @@ warp://[2606:4700:d0::a510:2cb1:3a86:df93]:5279?ifp=0-10&ifps=0-10&ifpd=1-4&ifpm
 warp://162.159.192.22:8854?ifp=0-10&ifps=0-10&ifpd=1-4&ifpm=m4#15
 warp://p1@162.159.192.22:8854?ifp=0-10&ifps=0-10&ifpd=1-4&ifpm=m4#17
 warp://162.159.192.221:8854?ifp=0-10&ifps=0-10&ifpd=1-4&ipfm=m4#20
+warp://162.159.192.123:928?ifp=0-10&ifps=0-10&ifpd=1-4&ipfm=m4#21
+warp://188.114.97.149:908?ifp=0-10&ifps=0-10&ifpd=1-4&ipfm=m4#22
